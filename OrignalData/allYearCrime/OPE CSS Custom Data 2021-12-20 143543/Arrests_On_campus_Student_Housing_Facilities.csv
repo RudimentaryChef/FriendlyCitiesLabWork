@@ -1,0 +1,64 @@
+Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Illegal weapons possession,Drug law violations,Liquor law violations
+2001,177834,A T Still University of Health Sciences,1,Missouri Campus,1140,0,0,0
+2001,222178,Abilene Christian University,1,ACU-Abilene,4673,0,0,0
+2001,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,2855,0,0,8
+2002,177834,A T Still University of Health Sciences,1,Missouri Campus,1287,0,0,0
+2002,222178,Abilene Christian University,1,ACU-Abilene,4668,0,0,0
+2002,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3032,1,5,7
+2003,177834,A T Still University of Health Sciences,1,Missouri Campus,1499,0,0,0
+2003,222178,Abilene Christian University,1,ACU-Abilene,4648,1,0,0
+2003,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3407,0,0,17
+2004,177834,A T Still University of Health Sciences,1,Missouri Campus,1855,0,0,0
+2004,222178,Abilene Christian University,1,ACU-Abilene,4761,1,1,0
+2004,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3362,0,4,12
+2005,177834,A T Still University of Health Sciences,1,Missouri Campus,2130,0,0,0
+2005,222178,Abilene Christian University,1,ACU-Abilene,4685,0,2,2
+2005,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3423,0,1,11
+2006,177834,A T Still University of Health Sciences,1,Missouri Campus,2459,0,0,0
+2006,222178,Abilene Christian University,1,ACU-Abilene,4777,0,1,0
+2006,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3574,0,2,3
+2007,177834,A T Still University of Health Sciences,1,Missouri Campus,2880,0,0,0
+2007,222178,Abilene Christian University,1,ACU-Abilene,4675,1,1,0
+2007,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3665,0,3,5
+2008,177834,A T Still University of Health Sciences,1,Missouri Campus,3480,0,0,0
+2008,222178,Abilene Christian University,1,ACU-Abilene,4669,0,1,2
+2008,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3600,1,3,14
+2009,177834,A T Still University of Health Sciences,1,Missouri Campus,3702,0,0,0
+2009,222178,Abilene Christian University,1,ACU-Abilene,4813,0,1,3
+2009,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3327,2,3,12
+2010,177834,A T Still University of Health Sciences,1,Missouri Campus,3632,0,0,0
+2010,222178,Abilene Christian University,1,ACU-Abilene,4728,0,2,3
+2010,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3284,0,1,8
+2011,177834,A T Still University of Health Sciences,1,Missouri Campus,3293,0,0,0
+2011,222178,Abilene Christian University,1,ACU-Abilene,4558,0,0,2
+2011,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3250,0,1,6
+2012,177834,A T Still University of Health Sciences,1,Missouri Campus,3141,0,0,0
+2012,222178,Abilene Christian University,1,ACU-Abilene,4367,0,0,1
+2012,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3233,0,5,8
+2013,177834,A T Still University of Health Sciences,1,Missouri Campus,3314,0,0,0
+2013,222178,Abilene Christian University,1,ACU-Abilene,4461,0,4,0
+2013,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3394,0,1,13
+2014,177834,A T Still University of Health Sciences,1,Missouri Campus,3226,0,0,0
+2014,222178,Abilene Christian University,1,ACU-Abilene,4427,0,4,1
+2014,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3458,1,4,4
+2015,177834,A T Still University of Health Sciences,1,Missouri Campus,3357,0,0,0
+2015,222178,Abilene Christian University,1,ACU-Abilene,4544,1,1,1
+2015,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3393,0,4,6
+2016,177834,A T Still University of Health Sciences,1,Missouri Campus,3569,0,0,0
+2016,222178,Abilene Christian University,1,ACU-Abilene,4910,0,3,12
+2016,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3475,1,6,25
+2017,177834,A T Still University of Health Sciences,1,Missouri Campus,3723,0,0,0
+2017,222178,Abilene Christian University,1,ACU-Abilene,5145,0,5,7
+2017,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3394,0,7,26
+2018,177834,A T Still University of Health Sciences,1,Missouri Campus,3717,0,0,0
+2018,222178,Abilene Christian University,1,ACU-Abilene,5204,0,3,13
+2018,222178,Abilene Christian University,4,ACU Oxford,5204,0,0,0
+2018,222178,Abilene Christian University,5,ACU-Leipzig,5204,0,0,0
+2018,222178,Abilene Christian University,6,ACU-Montevideo,5204,0,0,0
+2018,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,4291,0,2,34
+2019,177834,A T Still University of Health Sciences,1,Missouri Campus,3857,0,0,0
+2019,222178,Abilene Christian University,1,ACU-Abilene,5292,0,4,12
+2019,222178,Abilene Christian University,4,ACU Oxford,5292,0,0,0
+2019,222178,Abilene Christian University,5,ACU-Leipzig,5292,0,0,0
+2019,222178,Abilene Christian University,6,ACU-Montevideo,5292,0,0,0
+2019,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3927,0,2,1

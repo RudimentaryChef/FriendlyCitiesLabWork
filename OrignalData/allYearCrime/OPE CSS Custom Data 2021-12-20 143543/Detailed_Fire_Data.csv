@@ -1,0 +1,18 @@
+Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Name of Facility,Street Address,Category of Fire,Cause of Fire,Fire-related injuries,Fire-related deaths,Property damage
+2010,177834,A T Still University of Health Sciences,1,Missouri Campus,3632,Student Housing A,200 S. Osteopathy,Unintentional,Cooking,0,0,$0-$99
+2011,222178,Abilene Christian University,1,ACU-Abilene,4558,Smith-Adams Hall,1402 Cedar Crest Dr.,Unintentional,Smoking materials,0,0,$0-$99
+2011,222178,Abilene Christian University,1,ACU-Abilene,4558,Smith-Adams Hall,1402 Cedar Crest Dr.,Unintentional,Electrical,0,0,"$1,000-$9,999"
+2012,222178,Abilene Christian University,1,ACU-Abilene,4367,Dillard Hall,633 EN 19th,Unintentional,Electrical,0,0,"$1,000-$9,999"
+2012,222178,Abilene Christian University,1,ACU-Abilene,4367,Sikes Hall,990 EN 16th,Unintentional,Cooking,0,0,"$1,000-$9,999"
+2013,222178,Abilene Christian University,1,ACU-Abilene,4461,Smith-Adams Hall,1402 Cedar Crest Dr.,Unintentional,Cooking,0,0,"$1,000-$9,999"
+2014,222178,Abilene Christian University,1,ACU-Abilene,4427,Barret Hall,1818 Campus Court,Unintentional,Electrical,0,0,"$1,000-$9,999"
+2015,222178,Abilene Christian University,1,ACU-Abilene,4544,Edwards Hall,1995 Campus Court,Unintentional,Electrical,0,0,$100-$999
+2015,222178,Abilene Christian University,1,ACU-Abilene,4544,Mabee Hall,1885 Campus Court,Unintentional,Electrical,0,0,$100-$999
+2018,222178,Abilene Christian University,1,ACU-Abilene,5204,Mabee Hall,1885 Campus Court,Unintentional,Electrical,0,0,$100-$999
+2018,222178,Abilene Christian University,1,ACU-Abilene,5204,University Park Bldg 3,2150 N. Judge Ely Blvd.,Unintentional,Cooking,0,0,$100-$999
+2018,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,4291,ABAC Place,100Faculty Dr,Unintentional,Cooking,0,0,$100-$999
+2018,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,4291,ABAC Lakeside,180 Farm Lane,Unintentional,Cooking,0,0,$100-$999
+2018,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,4291,ABAC Lakeside,180 Farm Lane,Unintentional,Cooking,0,0,$100-$999
+2019,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3927,ABAC Place,100Faculty Dr,Unintentional,Cooking,0,0,$100-$999
+2019,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3927,ABAC Lakeside,180 Farm Lane,Unintentional,Cooking,0,0,$100-$999
+2019,138558,Abraham Baldwin Agricultural College,1,ABAC main campus,3927,ABAC Lakeside,180 Farm Lane,Unintentional,Electrical,0,0,$100-$999
